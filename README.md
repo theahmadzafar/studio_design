@@ -1,3 +1,47 @@
+# studio-design
+
+# Setup
+
+## clone repo
+
+https://github.com/theahmadzafar/studio_design.git
+
+
+## navigate to repo
+
+cd studio-design
+
+# Commands
+
+## install deps
+
+yarn
+
+## start server
+
+yarn start
+
+## build project
+
+yarn run build
+
+# folder structure
+
+src
+
+src -> assets (Assets)
+src -> componenets (Shared Components)
+src -> layouts (Layouts)
+src -> routes (Application Routes)
+src -> styles (Global Styles)
+src -> views (Main pages)
+
+## Details
+
+This is a hero section which have left section that contains side Nav and right section contains hero section. There is only one layout now in the project in layouts folder. For now we have only one route because have only one page. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
